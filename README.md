@@ -1,7 +1,9 @@
-## About me
+## About myself
 
-<h1 align= "left">Hi 👋, I'm Heejae Shin</h1>
-<h3 align="left">A developer who codes dreams</h3>
+<h1 align= "left">안녕하세요👋, 신희재입니다</h1>
+<h3 align="left">웹 개발자를 꿈꾸고 있습니다</h3>
+
+- 📝 연세대학교 신학, 노어노문학, 응용통계학 학사 전공
 
 - 🔭 I’m currently working on **SW Development Team in Yonsei Group**
 
