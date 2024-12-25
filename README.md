@@ -2,13 +2,15 @@
 
 <h1 align= "left">안녕하세요👋 웹 개발자를 꿈꾸는 신희재입니다</h1>
 
-- 📝 연세대학교 신학, 노어노문학, 응용통계학 학사 전공
+- 📝 연세대학교 신학, 노어노문학, 응용통계학 학사 전공 (2019.03 - 2025.02)
 
-- 🔭 I’m currently working on **SW Development Team in Yonsei Group**
+- 🔭 정보처리기사 자격증 (2024.09)
 
-- 🌱 I’m currently learning **HTML, CSS**
+- 🌱 빅데이터 분석 학회 BDA 6기 (2023.03 - 2023.09) 
 
-- 📄 Know about my experiences [https://www.notion.so/101a1101d50b80c18c08fa3487b2807d](https://www.notion.so/101a1101d50b80c18c08fa3487b2807d)
+- Previous work []
+
+- 📄 My experiences in detail [https://www.notion.so/101a1101d50b80c18c08fa3487b2807d](https://www.notion.so/101a1101d50b80c18c08fa3487b2807d)
 
 <h3 align="left">Connect with me: 123fg456@naver.com</h3>
 <p align="left">
