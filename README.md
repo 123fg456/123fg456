@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.notion.so/101a1101d50b80c18c08fa3487b2807d](https://www.notion.so/101a1101d50b80c18c08fa3487b2807d)
 
-<h3 align="left">Connect with me:123fg456@naver.com</h3>
+<h3 align="left">Connect with me: 123fg456@naver.com</h3>
 <p align="left">
 </p>
 
