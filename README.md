@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **HTML, CSS**
 
-- 📫 How to reach me **123fg456@naver.com**
-
 - 📄 Know about my experiences [https://www.notion.so/101a1101d50b80c18c08fa3487b2807d](https://www.notion.so/101a1101d50b80c18c08fa3487b2807d)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:123fg456@naver.com</h3>
 <p align="left">
 </p>
 
