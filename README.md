@@ -8,7 +8,7 @@
 
 - 🌱 빅데이터 분석 학회 BDA 6기 (2023.03 - 2023.09) 
 
-- 📄 My experiences in detail [https://www.notion.so/101a1101d50b80c18c08fa3487b2807d](https://www.notion.so/101a1101d50b80c18c08fa3487b2807d)
+- 📄 My experiences in detail [https://www.notion.so/1670f644ac3d80dc972ee18e5fe4a8ad)
   
 - 👨‍💻 Previous projects are available at []
 
