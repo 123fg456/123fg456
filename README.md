@@ -8,9 +8,9 @@
 
 - 🌱 빅데이터 분석 학회 BDA 6기 (2023.03 - 2023.09) 
 
-- Previous work []
-
 - 📄 My experiences in detail [https://www.notion.so/101a1101d50b80c18c08fa3487b2807d](https://www.notion.so/101a1101d50b80c18c08fa3487b2807d)
+  
+- 👨‍💻 Previous projects are available at []
 
 <h3 align="left">Connect with me: 123fg456@naver.com</h3>
 <p align="left">
